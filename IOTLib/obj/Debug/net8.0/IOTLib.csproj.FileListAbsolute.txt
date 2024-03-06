@@ -1,0 +1,13 @@
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\bin\Debug\net8.0\IOTLib.deps.json
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\bin\Debug\net8.0\IOTLib.dll
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\bin\Debug\net8.0\IOTLib.pdb
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.csproj.AssemblyReference.cache
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.AssemblyInfoInputs.cache
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.AssemblyInfo.cs
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.csproj.CoreCompileInputs.cache
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.sourcelink.json
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.dll
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\refint\IOTLib.dll
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\IOTLib.pdb
+C:\Users\alfre\source\repos\serial_port_monitor\IOTLib\obj\Debug\net8.0\ref\IOTLib.dll

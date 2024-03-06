@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vDUzNj3Mm/OdcZtC5ebvn4RrH8O0u3lOcMZnbpWE0i21bCHDKN12FT8u/4HWb1/LIhVd5Ix3/bLhTZe2ZXlPyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\ftdi_demo\\ftdi_demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alfre\\.nuget\\packages\\ftd2xx.net\\1.2.1\\ftd2xx.net.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

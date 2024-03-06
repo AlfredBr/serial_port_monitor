@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\spi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\spi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\gpioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\gpioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\gpiopin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\gpiopin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\gpioeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\gpioeventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\gpioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\gpioconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\gpio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\gpio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}|..\\FtdiSharp\\src\\FtdiSharp\\FtdiSharp.csproj|c:\\users\\alfre\\source\\repos\\ftdisharp\\src\\ftdisharp\\protocols\\i2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}|..\\FtdiSharp\\src\\FtdiSharp\\FtdiSharp.csproj|c:\\users\\alfre\\source\\repos\\ftdisharp\\src\\ftdisharp\\protocols\\spi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|solutionrelative:iot_wpf\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|solutionrelative:iot_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0439861-BABF-4467-A2ED-233093EE093C}|iot_demo\\iot_demo.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iot_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0439861-BABF-4467-A2ED-233093EE093C}|iot_demo\\iot_demo.csproj|solutionrelative:iot_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|solutionrelative:iot_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfre\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A70BDE33-64C2-418C-BD02-FCF74B4644B5}|iot_wpf\\iot_wpf.csproj|solutionrelative:iot_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\globalsuppressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62257D7-3441-454A-92F3-00B351F7870C}|ftdi_demo\\ftdi_demo.csproj|c:\\users\\alfre\\.nuget\\packages\\ftd2xx.net\\1.2.1\\contentfiles\\any\\netstandard2.1\\ftdi2xx.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{753CAA33-D190-470B-9D62-6CAEC2C88BA9}|serial_port_monitor\\serial_port_monitor.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\serial_port_monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{753CAA33-D190-470B-9D62-6CAEC2C88BA9}|serial_port_monitor\\serial_port_monitor.csproj|solutionrelative:serial_port_monitor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iotlib\\iotlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A17032D1-4D1A-4A81-8570-642F61BB01DA}|IOTLib\\IOTLib.csproj|solutionrelative:iotlib\\iotlib.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E62257D7-3441-454A-92F3-00B351F7870C}|ftdi_demo\\ftdi_demo.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\ftdi_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E62257D7-3441-454A-92F3-00B351F7870C}|ftdi_demo\\ftdi_demo.csproj|solutionrelative:ftdi_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0439861-BABF-4467-A2ED-233093EE093C}|iot_demo\\iot_demo.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\iot_demo\\iot_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0439861-BABF-4467-A2ED-233093EE093C}|iot_demo\\iot_demo.csproj|solutionrelative:iot_demo\\iot_demo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}|ftdisharp_demo\\ftdisharp_demo.csproj|c:\\users\\alfre\\source\\repos\\serial_port_monitor\\ftdisharp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}|ftdisharp_demo\\ftdisharp_demo.csproj|solutionrelative:ftdisharp_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alfre\\AppData\\Local\\Temp\\15c0c121-b62d-464f-8866-825841b3c778_LoopBack.zip.778\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_demo\\Program.cs",
+              "RelativeDocumentMoniker": "iot_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_demo\\Program.cs",
+              "RelativeToolTip": "iot_demo\\Program.cs",
+              "ViewState": "AQIAANUAAAAAAAAAAAAkwOgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-25T22:11:00.624Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GPIO.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIO.cs",
+              "RelativeDocumentMoniker": "IOTLib\\GPIO.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIO.cs",
+              "RelativeToolTip": "IOTLib\\GPIO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T20:20:26.02Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "I2C.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\FtdiSharp\\src\\FtdiSharp\\Protocols\\I2C.cs",
+              "RelativeDocumentMoniker": "..\\FtdiSharp\\src\\FtdiSharp\\Protocols\\I2C.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\FtdiSharp\\src\\FtdiSharp\\Protocols\\I2C.cs",
+              "RelativeToolTip": "..\\FtdiSharp\\src\\FtdiSharp\\Protocols\\I2C.cs",
+              "ViewState": "AQIAAAUBAAAAAAAAAAAawB8BAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T03:38:12.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\alfre\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\0a84cc53936b314ba955b54f50bf4796d8234943f3fd7b93873381b45d404026\\XamlReader.cs [Read Only]",
+              "ViewState": "AQIAAKUBAAAAAAAAAIA0wLUBAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T05:43:18.92Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\App.xaml.cs",
+              "RelativeDocumentMoniker": "iot_wpf\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\App.xaml.cs",
+              "RelativeToolTip": "iot_wpf\\App.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAywAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T05:28:42.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "iot_wpf\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\MainWindow.xaml",
+              "RelativeToolTip": "iot_wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-16T05:17:29.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "iot_wpf\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "iot_wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T05:17:29.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GPIOService.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOService.cs",
+              "RelativeDocumentMoniker": "IOTLib\\GPIOService.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOService.cs",
+              "RelativeToolTip": "IOTLib\\GPIOService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T05:10:46.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GPIOPin.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOPin.cs",
+              "RelativeDocumentMoniker": "IOTLib\\GPIOPin.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOPin.cs",
+              "RelativeToolTip": "IOTLib\\GPIOPin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T04:20:47.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GPIOEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOEventArgs.cs",
+              "RelativeDocumentMoniker": "IOTLib\\GPIOEventArgs.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOEventArgs.cs",
+              "RelativeToolTip": "IOTLib\\GPIOEventArgs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAYwBMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T04:07:44.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GlobalSuppressions.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GlobalSuppressions.cs",
+              "RelativeDocumentMoniker": "IOTLib\\GlobalSuppressions.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GlobalSuppressions.cs",
+              "RelativeToolTip": "IOTLib\\GlobalSuppressions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T04:05:40.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IOTLib.csproj",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\IOTLib.csproj",
+              "RelativeDocumentMoniker": "IOTLib\\IOTLib.csproj",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\IOTLib.csproj",
+              "RelativeToolTip": "IOTLib\\IOTLib.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-15T20:23:26.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SPI.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\SPI.cs",
+              "RelativeDocumentMoniker": "IOTLib\\SPI.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\SPI.cs",
+              "RelativeToolTip": "IOTLib\\SPI.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T20:19:31.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\serial_port_monitor\\Program.cs",
+              "RelativeDocumentMoniker": "serial_port_monitor\\Program.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\serial_port_monitor\\Program.cs",
+              "RelativeToolTip": "serial_port_monitor\\Program.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-15T03:45:18.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "iot_demo.csproj",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_demo\\iot_demo.csproj",
+              "RelativeDocumentMoniker": "iot_demo\\iot_demo.csproj",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_demo\\iot_demo.csproj",
+              "RelativeToolTip": "iot_demo\\iot_demo.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2023-12-20T21:49:20.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SPI.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\FtdiSharp\\src\\FtdiSharp\\Protocols\\SPI.cs",
+              "RelativeDocumentMoniker": "..\\FtdiSharp\\src\\FtdiSharp\\Protocols\\SPI.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\FtdiSharp\\src\\FtdiSharp\\Protocols\\SPI.cs",
+              "RelativeToolTip": "..\\FtdiSharp\\src\\FtdiSharp\\Protocols\\SPI.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAEwB4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T17:21:50.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GPIOConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOConfig.cs",
+              "RelativeDocumentMoniker": "IOTLib\\GPIOConfig.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\IOTLib\\GPIOConfig.cs",
+              "RelativeToolTip": "IOTLib\\GPIOConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-16T06:21:46.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\App.xaml",
+              "RelativeDocumentMoniker": "iot_wpf\\App.xaml",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\iot_wpf\\App.xaml",
+              "RelativeToolTip": "iot_wpf\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-01-16T05:46:13.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\ftdisharp_demo\\Program.cs",
+              "RelativeDocumentMoniker": "ftdisharp_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\ftdisharp_demo\\Program.cs",
+              "RelativeToolTip": "ftdisharp_demo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-03T16:33:11.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\AppData\\Local\\Temp\\15c0c121-b62d-464f-8866-825841b3c778_LoopBack.zip.778\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\15c0c121-b62d-464f-8866-825841b3c778_LoopBack.zip.778\\Program.cs",
+              "ToolTip": "C:\\Users\\alfre\\AppData\\Local\\Temp\\15c0c121-b62d-464f-8866-825841b3c778_LoopBack.zip.778\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\15c0c121-b62d-464f-8866-825841b3c778_LoopBack.zip.778\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T19:16:59.194Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FTDI2XX.xml",
+              "DocumentMoniker": "C:\\Users\\alfre\\.nuget\\packages\\ftd2xx.net\\1.2.1\\contentFiles\\any\\netstandard2.1\\FTDI2XX.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\ftd2xx.net\\1.2.1\\contentFiles\\any\\netstandard2.1\\FTDI2XX.xml",
+              "ToolTip": "C:\\Users\\alfre\\.nuget\\packages\\ftd2xx.net\\1.2.1\\contentFiles\\any\\netstandard2.1\\FTDI2XX.xml [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\ftd2xx.net\\1.2.1\\contentFiles\\any\\netstandard2.1\\FTDI2XX.xml [Read Only]",
+              "ViewState": "AQIAAHcCAAAAAAAAAIBgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2023-12-02T19:14:22.317Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\ftdi_demo\\Program.cs",
+              "RelativeDocumentMoniker": "ftdi_demo\\Program.cs",
+              "ToolTip": "C:\\Users\\alfre\\source\\repos\\serial_port_monitor\\ftdi_demo\\Program.cs",
+              "RelativeToolTip": "ftdi_demo\\Program.cs",
+              "ViewState": "AQIAAJAAAAAAAAAAAAAAAOcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-02T19:12:51.585Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

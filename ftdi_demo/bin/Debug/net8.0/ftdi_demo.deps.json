@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ftdi_demo/1.0.0": {
+        "dependencies": {
+          "FTD2XX.Net": "1.2.1"
+        },
+        "runtime": {
+          "ftdi_demo.dll": {}
+        }
+      },
+      "FTD2XX.Net/1.2.1": {
+        "runtime": {
+          "lib/netstandard2.1/FTDI2XX.dll": {
+            "assemblyVersion": "1.2.1.0",
+            "fileVersion": "1.2.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ftdi_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FTD2XX.Net/1.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mfUBsxQLhF9oyCKyz+ClNeYtuTar1bn8I2BU3w8Z4jjz3nqFeMJONvbIgDExOxjZbi40C77nkd2SY8jONDAd+Q==",
+      "path": "ftd2xx.net/1.2.1",
+      "hashPath": "ftd2xx.net.1.2.1.nupkg.sha512"
+    }
+  }
+}

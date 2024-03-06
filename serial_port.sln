@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "serial_port_monitor", "serial_port_monitor\serial_port_monitor.csproj", "{753CAA33-D190-470B-9D62-6CAEC2C88BA9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ftdi_demo", "ftdi_demo\ftdi_demo.csproj", "{E62257D7-3441-454A-92F3-00B351F7870C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iot_demo", "iot_demo\iot_demo.csproj", "{E0439861-BABF-4467-A2ED-233093EE093C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ftdisharp_demo", "ftdisharp_demo\ftdisharp_demo.csproj", "{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FtdiSharp", "..\FtdiSharp\src\FtdiSharp\FtdiSharp.csproj", "{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOTLib", "IOTLib\IOTLib.csproj", "{A17032D1-4D1A-4A81-8570-642F61BB01DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iot_wpf", "iot_wpf\iot_wpf.csproj", "{A70BDE33-64C2-418C-BD02-FCF74B4644B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{753CAA33-D190-470B-9D62-6CAEC2C88BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{753CAA33-D190-470B-9D62-6CAEC2C88BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{753CAA33-D190-470B-9D62-6CAEC2C88BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{753CAA33-D190-470B-9D62-6CAEC2C88BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E62257D7-3441-454A-92F3-00B351F7870C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E62257D7-3441-454A-92F3-00B351F7870C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E62257D7-3441-454A-92F3-00B351F7870C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E62257D7-3441-454A-92F3-00B351F7870C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0439861-BABF-4467-A2ED-233093EE093C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0439861-BABF-4467-A2ED-233093EE093C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0439861-BABF-4467-A2ED-233093EE093C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0439861-BABF-4467-A2ED-233093EE093C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C76F61-A2AD-4651-A403-38C9D8E3C2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B543DF9-08CA-4E52-922F-AAC19E61E4B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A17032D1-4D1A-4A81-8570-642F61BB01DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A17032D1-4D1A-4A81-8570-642F61BB01DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A17032D1-4D1A-4A81-8570-642F61BB01DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A17032D1-4D1A-4A81-8570-642F61BB01DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A70BDE33-64C2-418C-BD02-FCF74B4644B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A70BDE33-64C2-418C-BD02-FCF74B4644B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A70BDE33-64C2-418C-BD02-FCF74B4644B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A70BDE33-64C2-418C-BD02-FCF74B4644B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A382C3DF-D266-46C3-A47D-459176EE1CE9}
+	EndGlobalSection
+EndGlobal

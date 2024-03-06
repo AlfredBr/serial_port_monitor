@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ftdisharp_demo/1.0.0": {
+        "dependencies": {
+          "FtdiSharp": "0.0.3-alpha"
+        },
+        "runtime": {
+          "ftdisharp_demo.dll": {}
+        }
+      },
+      "FtdiSharp/0.0.3-alpha": {
+        "runtime": {
+          "FtdiSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ftdisharp_demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FtdiSharp/0.0.3-alpha": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
